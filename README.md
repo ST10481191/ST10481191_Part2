@@ -1,79 +1,59 @@
 Threads of Africa Website
+Description
 
-A high-fashion Gen Z streetwear inspired website built with HTML and CSS.
-The site showcases the brand identity, lookbook, shop collections, and store location of Threads of Africa – where heritage meets streetwear.
+Threads of Africa is a high-fashion South African streetwear website showcasing seasonal collections, lookbooks, store locations, and more. The website is fully responsive and designed for modern desktop, tablet, and mobile screens.
 
-Features
-
-Landing Page (index.html): Introduction to the brand with bold visuals
-
-About Page (about.html): Story, mission, vision, and values
-
-Shop Page (shop.html): Product collections with hover animations
-
-Lookbook Page (lookbook.html): Seasonal lookbook showcasing campaigns
-
-Location Page (location.html): Store location, contact info, and map
-
-Consistent Theme: Gradient titles, modern fonts, hover effects, clean layout
-
-Responsive Design: Optimized for desktop and mobile
-
-Project Structure
-Threads-of-Africa/
+Folder Structure
+ThreadsOfAfrica/
 │
-├── index.html Home / Landing page
-├── about.html About page
-├── shop.html Shop collections
-├── lookbook.html Lookbook showcase
-├── location.html Location and contact info
+├── webpages/
+│   ├── index.html
+│   ├── about.html
+│   ├── shop.html
+│   ├── lookbook.html
+│   └── location.html
 │
-├── Images/ All brand and product images
-│ ├── Logo.png
-│ ├── storefront.webp
-│ ├── lookbook1.webp
-│ ├── lookbook2.webp
-│ ├── lookbook3.webp
-│ ├── lookbook4.webp
-│ ├── map-placeholder.webp
-│ └── other product images...
+├── css/
+│   └── style.css
 │
-└── README.txt Project documentation
+├── js/
+│   └── script.js
+│
+├── images/
+│   └── [all images used in webpages]
+│
+└── README.md
 
-Tech Stack
+Improvements
 
-HTML5 for page structure
+Consistent styling across all pages.
 
-CSS3 for styling, responsiveness, animations
+White background for a clean and modern look.
 
-Google Fonts (Poppins) for typography
+Navigation bar colors match the website’s theme.
 
-No external JavaScript libraries (lightweight and fast)
+Responsive design for phones, tablets, and desktops.
 
-How to Run
+Hover effects on images for better user interaction.
 
-Clone or download this project.
+Organized sub-collections and products in grids.
 
-Open any of the HTML files in your browser (start with index.html).
+Refinements
 
-Make sure the Images folder is in the same directory as your HTML files.
+Unified font family (Rubik and Rubik Glitch) for headings and body text.
 
-Design Choices
+Improved spacing, padding, and alignment for readability.
 
-Color palette: gradient from pink (#ff3c78) to orange (#ff9d3c) for titles, black backgrounds, white text accents
+Footer design consistent across all pages.
 
-Typography: Poppins for modern and bold style
+Added captions for images to describe collections and products.
 
-Layout: grid-based shop section, centered captions for storytelling
+Changelog
 
-Hover effects: smooth zoom on images for interactivity
+v1.0: Initial design and structure of all webpages.
 
-Future Enhancements
+v1.1: Added responsive design for mobile and tablet.
 
-Add JavaScript cart functionality for the shop
+v1.2: Updated navigation bar color and background to match the design theme.
 
-Implement a gallery slider for the lookbook
-
-Replace map placeholder with an actual Google Maps embed
-
-Add a bursary or campaign application page if needed
+v1.3: Consolidated CSS into a single external stylesheet for all pages.

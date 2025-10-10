@@ -1,59 +1,54 @@
-Threads of Africa Website
-Description
+Threads of Africa 🌍
+Overview
 
-Threads of Africa is a high-fashion South African streetwear website showcasing seasonal collections, lookbooks, store locations, and more. The website is fully responsive and designed for modern desktop, tablet, and mobile screens.
+Threads of Africa is a modern streetwear website that blends African heritage with contemporary design.
+The website showcases collections, lookbooks, and store locations — designed to be visually appealing, minimalistic, and responsive on all devices (desktop, tablet, and phone).
 
 Folder Structure
+
 ThreadsOfAfrica/
 │
 ├── webpages/
-│   ├── index.html
-│   ├── about.html
-│   ├── shop.html
-│   ├── lookbook.html
-│   └── location.html
+│ ├── index.html
+│ ├── about.html
+│ ├── shop.html
+│ ├── lookbook.html
+│ └── location.html
 │
 ├── css/
-│   └── style.css
+│ └── style.css
 │
 ├── js/
-│   └── script.js
+│ └── script.js
 │
 ├── images/
-│   └── [all images used in webpages]
+│ └── [all images used in the site]
 │
 └── README.md
 
-Improvements
+Improvements & Refinements
 
-Consistent styling across all pages.
+Unified navigation bar design across all pages for consistent branding.
 
-White background for a clean and modern look.
+Added white background and minimal aesthetic for a cleaner, modern look.
 
-Navigation bar colors match the website’s theme.
+Implemented external CSS (style.css) for maintainable and reusable styling.
 
-Responsive design for phones, tablets, and desktops.
+Made the layout responsive using CSS grid and flexbox — optimized for phone, tablet, and desktop.
 
-Hover effects on images for better user interaction.
+Added hover effects and text gradients for a professional, engaging user experience.
 
-Organized sub-collections and products in grids.
-
-Refinements
-
-Unified font family (Rubik and Rubik Glitch) for headings and body text.
-
-Improved spacing, padding, and alignment for readability.
-
-Footer design consistent across all pages.
-
-Added captions for images to describe collections and products.
+Organized all assets (images, CSS, JS) into proper subfolders for neat structure.
 
 Changelog
+Date	Change Description
+2025-10-10	Created consistent layout and navigation bar across all pages
+2025-10-11	Added external CSS file (style.css)
+2025-10-11	Improved responsiveness and spacing for all devices
+2025-10-12	Final refinements, README.md added, ready for submission
+GitHub Link
 
-v1.0: Initial design and structure of all webpages.
+View Repository on GitHub:
+https://github.com/yourusername/ThreadsOfAfrica
 
-v1.1: Added responsive design for mobile and tablet.
-
-v1.2: Updated navigation bar color and background to match the design theme.
-
-v1.3: Consolidated CSS into a single external stylesheet for all pages.
+(Replace the link above with your actual GitHub repository URL.)

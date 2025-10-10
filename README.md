@@ -49,6 +49,4 @@ Date	Change Description
 GitHub Link
 
 View Repository on GitHub:
-https://github.com/yourusername/ThreadsOfAfrica
-
-(Replace the link above with your actual GitHub repository URL.)
+https://https://github.com/ST10481191/ST10481191_Part2
